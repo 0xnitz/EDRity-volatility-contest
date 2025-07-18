@@ -1,5 +1,7 @@
 # EDRity - Volatility Contest 2023 Writeup
 
+** old volatility contest submission of mine
+
 ## Motiviation
 
 As I stated in the email, I wanted to stretch what is possible with a python memory analysis framework.
